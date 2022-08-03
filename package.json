@@ -1,6 +1,6 @@
 {
 	"name": "starton-boilerplate-next",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"private": true,
 	"license": "Apache-2.0",
 	"author": {
@@ -40,7 +40,7 @@
 		"react-redux": "^8.0.2"
 	},
 	"devDependencies": {
-		"@starton/eslint-config-nextjs": "^1.1.2",
+		"@starton/eslint-config-nextjs": "^1.1.3",
 		"@types/lodash": "^4.14.182",
 		"@types/node": "18.6.1",
 		"@types/react": "18.0.15",
