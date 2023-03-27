@@ -20,7 +20,7 @@
 ### Next library
 - [Next SEO](https://github.com/garmeeh/next-seo)
 - [Next Sitemap](https://github.com/iamvishnusankar/next-sitemap)
-- [Next Translate](https://github.com/vinissimus/next-translate)
+- [Next Translate](https://github.com/vinissimus/next-translate-plugin)
 
 ## Project structure
 
